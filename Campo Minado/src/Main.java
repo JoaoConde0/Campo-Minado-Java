@@ -152,7 +152,7 @@ public class Main {
 
 
     public static int[] Escreva(String[][] Camp, int ver){
-        Scanner teclado = new Scanner(System.in);
+        
         int[] rsp = new int[2];
         switch(ver){
             case 0:
